@@ -4,4 +4,4 @@
 
 1. Clone the repository
    ```bash
-gh repo clone yogeshinde2021/MovieFix-Mob-App
+git clone https://github.com/yogeshinde2021/MovieFix-Mob-App/edit/master
